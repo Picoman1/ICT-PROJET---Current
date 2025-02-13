@@ -151,20 +151,7 @@ export const assets={
 }
 
 export const products = [
-    {
-       _id:'aaaa',
-       name:"Men plain Shirt",
-       description:"A classic and essential addition to any wardrobe, this plain shirt offers a sleek and modern look. Crafted from high-quality fabric, it's comfortable, breathable, and perfect for both formal and casual occasions",
-        price: 200,
-        image:[p_img_1,p_img_2,p_img_3,p_img_4],
-        category:'men',
-        subCategory:'Topwear',
-        sizes:['S','M','L'],
-        date:1716634345444,
-        bestseller:true
-
-    },
-    {
+     {
         _id:'aaab',
         name:"Olive Co-ord Sets",
         description:"Step into effortless style with this Olive Co-ord Set. Designed for comfort and elegance, this set is perfect for making a statement wherever you go",
